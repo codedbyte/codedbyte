@@ -1,0 +1,2 @@
+- 👋 Hi, I'm Derick Rono
+- 👀 I’m interested in making useful Python tools and backend Engineering

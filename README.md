@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="img/banner.png" alt="Derick Rono Banner" />
+  <img src="img/new-banner.png" alt="Derick Rono Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Derick Rono</h1>

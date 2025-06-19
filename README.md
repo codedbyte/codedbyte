@@ -68,11 +68,3 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40" height="40"/>
   </a>
 </p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codedbyte&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>

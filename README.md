@@ -6,11 +6,7 @@
 <h1 align="center">Hi 👋, I'm Derick Rono</h1>
 <h3 align="center">Software Engineering Student at Multimedia University of Kenya</h3>
 
-<p align="center">
-  <a href="https://twitter.com/codedbyte" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/codedbyte?logo=twitter&style=for-the-badge" alt="codedbyte Twitter follow" />
-  </a>
-</p>
+
 
 ---
 

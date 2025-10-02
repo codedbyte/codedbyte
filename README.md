@@ -1,24 +1,37 @@
-<h1 align="center">Hi 👋, I'm Derick Rono</h1>
-<h3 align="center">A JavaScript Full-Stack Developer</h3>
+# Hey there, I’m Derick Rono 👋
 
-- 🔭 I’m currently working on **The Odin Project**
+I’m a front-end developer who loves turning ideas into beautiful, functional websites. Right now, I’m in my second year studying Software Engineering at Multimedia University of Kenya, and I’m all about learning new skills and building projects that matter.
 
-- 🌱 I’m currently learning **Full-stack Web Development**
+---
 
-- 👯 I’m looking to collaborate on **Full-stack Projects**
+## A Bit About Me
 
-- 👨‍💻 All of my projects are available at [derickronoweb.vercel.app](derickronoweb.vercel.app)
+Coding isn’t just a skill for me — it’s a way to solve problems and bring creativity to life. I focus on writing clean, maintainable code and making sure the user’s experience is always smooth and enjoyable. When I’m not coding, you’ll probably find me exploring design tools like Figma or Canva to sharpen my eye for detail.
 
-- 📝 I regularly write articles on [x.com/codedbyte](x.com/codedbyte)
+---
 
-- 📫 How to reach me **codedbyteofficial@gmail.com**
+## What I’m Good At
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/codedbyte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codedbyte" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/derickrono" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="derickrono" height="30" width="40" /></a>
-<a href="https://instagram.com/codedbyte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codedbyte" height="30" width="40" /></a>
-</p>
+- HTML, CSS, JavaScript (including React)  
+- Styling with Tailwind CSS and Bootstrap  
+- Using npm, Webpack, and Vite to keep projects smooth and organized  
+- Designing mockups and prototypes in Figma and Canva  
+- Deploying sites on Vercel and Netlify  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
+
+## What I Can Bring to Your Team
+
+I’m a fast learner who loves a challenge. I’m comfortable working independently or collaborating with a team, always making sure communications are clear and deadlines are met. My goal? To contribute to projects that are not only well-built but also user-friendly and accessible.
+
+---
+
+## Let’s Connect!
+
+Looking for someone reliable and passionate about front-end development? I’d love to hear from you.
+
+- 📧 codedbyteofficial@gmail.com  
+- 💼 [LinkedIn: derickrono](https://www.linkedin.com/in/derickrono)  
+- 🌐 [Portfolio](https://codedbyte.vercel.app)
+
+Thanks for stopping by my profile. Let’s create something awesome together!

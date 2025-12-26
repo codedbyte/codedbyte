@@ -59,31 +59,4 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a>
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
-  </a>
-</p>
-
----
-
-### 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=derickrono&show_icons=true&theme=tokyonight" alt="derickrono" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=derickrono&theme=tokyonight" alt="derickrono" />
-</p>
-
----
-
-### 🚀 Featured Projects
-
-*Coming soon! Currently working on ML projects to showcase here.*
-
----
-
-<p align="center">
-  <i>Let's connect and build something amazing together!</i>
 </p>

@@ -1,67 +1,49 @@
-<h1 align="center">Hey 👋 I'm Derick Rono</h1>
+<h1 align="left">Hey 👋</h1>
 
-<h3 align="center">Software Engineering Student | Aspiring ML Engineer</h3>
+###
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=derickrono&label=Profile%20views&color=0e75b6&style=flat" alt="derickrono" />
-</p>
+<p align="left">My name is Derick Rono and I'm a software engineering student, currently learning and trying to figure things out.</p>
 
----
+###
 
-### 👨‍💻 About Me
+<h2 align="left">About me</h2>
 
-- 🌱 I'm currently learning **Machine Learning & Data Science**
-- 🔭 Working on building my **ML portfolio** with real-world projects
-- 👯 I'm looking to collaborate on **Data Science / ML Projects**
-- 💼 Open to **internships and freelance opportunities**
-- 📫 Reach me at **codedbyteofficial@gmail.com**
-- ⚡ Fun fact: **I learn by building, not just reading tutorials**
+###
 
----
+<p align="left">I'm interested in building AI powered applications and backend development<br>📚 I'm currently specializing in AI and backend development<br>🎯 Goals: Build solid AI applications and collaborate on cool projects<br>🎲 Fun fact: Still trying to figure things out</p>
 
-### 🌐 Connect with me:
+###
 
-<div align="center">
-  <a href="https://linkedin.com/in/derickrono" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/codedbyte" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-  <a href="https://kaggle.com/derickrono" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=20BEFF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="kaggle logo"  />
-  </a>
-  <a href="https://instagram.com/codedbyte" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
 
----
+###
 
-### 🛠️ Languages and Tools:
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=anaconda" height="60" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="60" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="60" alt="matplotlib logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="60" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
-</div>
+Feel free to check some of the projects I've worked on and I'm looking forward to collaborating with you in any project. Stay safe................

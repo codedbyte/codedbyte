@@ -1,20 +1,42 @@
-<h1 align="center">Hi 👋, I'm Derick Rono</h1>
+<h1 align="center">Derick Rono</h1>
+<p align="center">Junior Software Engineer · Building Applied AI Systems</p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/codedbyte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codedbyte" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/derickrono" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="derickrono" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=440&lines=I+like+building+random+stuff+%F0%9F%9B%A0%EF%B8%8F;Open+to+internships+%26+freelance;Applied+AI+%7C+React+%7C+Python" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+---
+
+### About Me
+
+- Building **Applied AI systems** and web apps 🛠️
+- Open to **internships**, **freelance**, and **open-source** collaborations
+
+### Languages & Tools
+
+<table align="center">
+  <tr>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=html" width="45"/><br>HTML</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=css" width="45"/><br>CSS</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=js" width="45"/><br>JavaScript</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=react" width="45"/><br>React</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=tailwind" width="45"/><br>Tailwind</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=python" width="45"/><br>Python</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=cpp" width="45"/><br>C++</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=java" width="45"/><br>Java</td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mysql" width="45"/><br>MySQL</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=supabase" width="45"/><br>Supabase</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=git" width="45"/><br>Git</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=github" width="45"/><br>GitHub</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=vscode" width="45"/><br>VS Code</td>
+  </tr>
+</table>
+
+### Connect
+
+<p align="center">
+  <a href="https://twitter.com/codedbyte" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" width="45"/></a>&nbsp;
+  <a href="https://linkedin.com/in/derickrono" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
 </p>

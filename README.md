@@ -1,51 +1,50 @@
-<h1 align="center">Derick Rono</h1>
-<p align="center">Full-Stack Developer · Building Scalable Web Applications</p>
+# Derick Rono
 
-<p align="center">
-  3rd-year Software Engineering student at Multimedia University of Kenya
-</p>
+Full-Stack Developer · Building Scalable Web Applications
+
+Third-year Software Engineering student at Multimedia University of Kenya.
 
 ---
 
-### About Me
+## About Me
 
-I’m a full-stack developer focused on building reliable, user-focused web applications. I enjoy working across the stack—from frontend interfaces to backend APIs and databases—and I’m particularly interested in product development and clean, maintainable code.
+I'm a full-stack developer passionate about building scalable, user-focused web applications. I enjoy working across the stack—from crafting intuitive frontend experiences to designing backend APIs and databases—with an emphasis on clean architecture, maintainable code, and great user experiences.
 
-- 3rd-year Software Engineering student at Multimedia University of Kenya  
-- Open to **internships**, **freelance**, and **open-source** opportunities  
-- Focused on **full-stack web development** and **product engineering**
+I'm currently open to internship opportunities, freelance projects, and open-source collaborations.
 
-### Tech Stack
+## Tech Stack
 
-<table align="center">
-  <tr>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=html" width="45"/><br>HTML</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=css" width="45"/><br>CSS</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=js" width="45"/><br>JavaScript</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=ts" width="45"/><br>TypeScript</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=react" width="45"/><br>React</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nextjs" width="45"/><br>Next.js</td>
-  </tr>
-  <tr>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nest" width="45"/><br>NestJS</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=prisma" width="45"/><br>Prisma</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=postgres" width="45"/><br>PostgreSQL</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mongodb" width="45"/><br>MongoDB</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mongoose" width="45"/><br>Mongoose</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=supabase" width="45"/><br>Supabase</td>
-  </tr>
-  <tr>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=tailwind" width="45"/><br>Tailwind</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=python" width="45"/><br>Python</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=git" width="45"/><br>Git</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=github" width="45"/><br>GitHub</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=vercel" width="45"/><br>Vercel</td>
-  </tr>
-</table>
+### Frontend
 
-### Connect
+[![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind)](https://skillicons.dev)
 
-<p align="center">
-  <a href="https://twitter.com/codedbyte" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" width="45"/></a>&nbsp;
-  <a href="https://linkedin.com/in/derickrono" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
+### Backend
+
+[![Backend](https://skillicons.dev/icons?i=nest)](https://skillicons.dev)
+
+### Databases & ORM
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma,supabase" alt="PostgreSQL, MongoDB, Prisma, Supabase" />
+  </a>
+  <img src="https://cdn.simpleicons.org/mongoose/880000" alt="Mongoose" width="48" style="vertical-align: middle;" />
+</p>
+
+### Tools
+
+[![Tools](https://skillicons.dev/icons?i=git,github,vercel,python)](https://skillicons.dev)
+
+---
+
+## Connect
+
+<p>
+  <a href="https://x.com/codedbyte" target="_blank">
+    <img src="https://cdn.simpleicons.org/x" width="42" alt="X" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/derickrono" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="42" alt="LinkedIn" />
+  </a>
 </p>

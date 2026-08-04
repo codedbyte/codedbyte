@@ -28,4 +28,6 @@ I'm currently open to internship opportunities, freelance projects, and open-sou
 
 ## Connect
 
-<a href="https://linkedin.com/in/derickrono">LinkedIn</a>
+<a href="https://linkedin.com/in/derickrono" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="42" alt="LinkedIn" />
+</a>

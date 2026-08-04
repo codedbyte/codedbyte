@@ -1,36 +1,45 @@
 <h1 align="center">Derick Rono</h1>
-<p align="center">Junior Software Engineer · Building Applied AI Systems</p>
+<p align="center">Full-Stack Developer · Building Scalable Web Applications</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=440&lines=I+like+building+random+stuff+%F0%9F%9B%A0%EF%B8%8F;Open+to+internships+%26+freelance;Applied+AI+%7C+React+%7C+Python" alt="Typing SVG" />
+  3rd-year Software Engineering student at Multimedia University of Kenya
 </p>
 
 ---
 
 ### About Me
 
-- Building **Applied AI systems** and web apps 🛠️
-- Open to **internships**, **freelance**, and **open-source** collaborations
+I’m a full-stack developer focused on building reliable, user-focused web applications. I enjoy working across the stack—from frontend interfaces to backend APIs and databases—and I’m particularly interested in product development and clean, maintainable code.
 
-### Languages & Tools
+- 3rd-year Software Engineering student at Multimedia University of Kenya  
+- Open to **internships**, **freelance**, and **open-source** opportunities  
+- Focused on **full-stack web development** and **product engineering**
+
+### Tech Stack
 
 <table align="center">
   <tr>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=html" width="45"/><br>HTML</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=css" width="45"/><br>CSS</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=js" width="45"/><br>JavaScript</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=ts" width="45"/><br>TypeScript</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=react" width="45"/><br>React</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=tailwind" width="45"/><br>Tailwind</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=python" width="45"/><br>Python</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=cpp" width="45"/><br>C++</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=java" width="45"/><br>Java</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nextjs" width="45"/><br>Next.js</td>
   </tr>
   <tr>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mysql" width="45"/><br>MySQL</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nest" width="45"/><br>NestJS</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=prisma" width="45"/><br>Prisma</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=postgres" width="45"/><br>PostgreSQL</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mongodb" width="45"/><br>MongoDB</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mongoose" width="45"/><br>Mongoose</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=supabase" width="45"/><br>Supabase</td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=tailwind" width="45"/><br>Tailwind</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=python" width="45"/><br>Python</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=git" width="45"/><br>Git</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=github" width="45"/><br>GitHub</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=vscode" width="45"/><br>VS Code</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=vercel" width="45"/><br>Vercel</td>
   </tr>
 </table>
 
